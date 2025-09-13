@@ -7,6 +7,10 @@ I'm a marketing motion designer specializing now in data analysis and data vizua
 - 💌 You can reach me at coltighe@gmail.com
 - 🐈 :black_cat: Both my cats look exactly like these emojis
 
+
+![image]({[https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)})
+![image]({https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white})
+
 [![My Skills](https://skillicons.dev/icons?i=pycharm,figma,ae,ps,sqlite)](https://skillicons.dev)
 
 <!--
