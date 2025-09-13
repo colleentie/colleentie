@@ -1,4 +1,4 @@
-## Hi there 👋
+## ✨ Hello!
 
 I'm a marketing motion designer specializing now in data analysis and data vizualizations.
 
