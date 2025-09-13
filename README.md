@@ -6,7 +6,11 @@ I'm a marketing motion designer specializing now in data analysis and data vizua
 - 🪴 I'm learning python, R, SQL, powerBI and tableau
 - 💌 You can reach me at coltighe@gmail.com
 - 🐈 :black_cat: Both my cats look exactly like these emojis
+
+[![My Skills](https://skillicons.dev/icons?i=pycharm,figma,ae,ps,sqlite)](https://skillicons.dev)
+
 <!--
+
 **colleentie/colleentie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
