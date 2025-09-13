@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a marketing motion designer specializing now in data analysis and data vizualizations.
+
+- 👩‍💻 I'm currently attending allWomen Data Analytics Bootcamp
+- 🪴 I'm learning python, R, SQL, powerBI and tableau
+- 💌 You can reach me at coltighe@gmail.com
+- 🐈 :black_cat: Both my cats look exactly like these emojis
 <!--
 **colleentie/colleentie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
